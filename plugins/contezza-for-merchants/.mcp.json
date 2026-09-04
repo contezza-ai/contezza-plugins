@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "contezza-merchants": {
+      "type": "http",
+      "url": "https://mcp.contezza.ai/ecommerce/mcp"
+    }
+  }
+}

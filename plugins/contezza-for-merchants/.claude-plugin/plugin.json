@@ -1,0 +1,20 @@
+{
+  "name": "contezza-for-merchants",
+  "description": "Trusted merchant knowledge for AI agents: author and validate Verified Answers feeds, wire the contezza-for-commerce-agents adapter into Anthropic's commerce-agents blueprint, and query Contezza's verified layer over MCP.",
+  "version": "0.2.0",
+  "author": {
+    "name": "Contezza AI",
+    "email": "hello@contezza.ai",
+    "url": "https://contezza.ai"
+  },
+  "homepage": "https://contezza.ai/agents.html",
+  "repository": "https://github.com/contezza-ai/contezza-plugins",
+  "license": "Apache-2.0",
+  "keywords": [
+    "ecommerce",
+    "verified-answers",
+    "commerce-agents",
+    "mcp",
+    "shopping-agents"
+  ]
+}
