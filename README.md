@@ -14,7 +14,7 @@ from [Contezza](https://contezza.ai).
 
 ### contezza-for-merchants
 
-For developers making merchant content agent-ready and building on Anthropic's
+**Contezza AI for Merchants**, in Claude Code and Cowork. For developers making merchant content agent-ready and building on Anthropic's
 [commerce-agents](https://github.com/anthropics/commerce-agents) blueprint:
 
 - **verified-feed-authoring** (skill) — author and validate a Verified Answers

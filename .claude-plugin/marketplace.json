@@ -10,7 +10,7 @@
     {
       "name": "contezza-for-merchants",
       "source": "./plugins/contezza-for-merchants",
-      "description": "Trusted merchant knowledge for AI agents: author and validate Verified Answers feeds, wire the contezza-for-commerce-agents adapter into Anthropic's commerce-agents blueprint, and query Contezza's verified layer over MCP.",
+      "description": "Contezza AI for Merchants \u2014 trusted merchant knowledge for AI agents. Author and validate Verified Answers feeds, wire the contezza-for-commerce-agents adapter into Anthropic's commerce-agents blueprint, lint feeds with /feed-lint, and query Contezza's verified layer over MCP.",
       "version": "0.2.0",
       "author": {
         "name": "Contezza AI",
