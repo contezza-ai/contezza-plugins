@@ -10,6 +10,12 @@
     "url": "https://contezza.ai"
   },
   "homepage": "https://contezza.ai/agents.html",
+  "documentation": "https://contezza.ai/agents.html",
+  "support": "https://contezza.ai/#contact",
+  "privacy_policies": [
+    "https://contezza.ai/privacy.html"
+  ],
+  "terms_of_service": "https://contezza.ai/terms.html",
   "repository": "https://github.com/contezza-ai/contezza-plugins",
   "license": "Apache-2.0",
   "keywords": [
