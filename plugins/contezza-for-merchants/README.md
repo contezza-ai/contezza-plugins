@@ -1,4 +1,4 @@
-# contezza-ai-for-merchants
+# contezza-for-merchants
 
 **Contezza AI for Merchants** — trusted merchant knowledge for AI agents, in
 Claude Code and Cowork: author Verified

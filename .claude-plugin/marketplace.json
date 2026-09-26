@@ -8,7 +8,7 @@
   },
   "plugins": [
     {
-      "name": "contezza-ai-for-merchants",
+      "name": "contezza-for-merchants",
       "source": "./plugins/contezza-for-merchants",
       "description": "Trusted merchant knowledge for AI agents: author and validate Verified Answers feeds, then query Contezza's cited, governed layer over MCP.",
       "version": "0.3.0",

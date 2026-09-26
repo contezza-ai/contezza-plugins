@@ -7,12 +7,12 @@ from [Contezza](https://contezza.ai).
 
 ```
 /plugin marketplace add contezza-ai/contezza-plugins
-/plugin install contezza-ai-for-merchants@contezza
+/plugin install contezza-for-merchants@contezza
 ```
 
 ## Plugins
 
-### contezza-ai-for-merchants
+### contezza-for-merchants
 
 **Contezza AI for Merchants**, in Claude Code and Cowork. For developers making merchant content agent-ready and building on Anthropic's
 [commerce-agents](https://github.com/anthropics/commerce-agents) blueprint:
