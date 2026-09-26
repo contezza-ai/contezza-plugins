@@ -3,7 +3,7 @@
   "displayName": "Contezza AI for Merchants",
   "version": "0.2.1",
   "icon": "./icon.svg",
-  "description": "Contezza AI for Merchants — trusted merchant knowledge for AI agents. Author and validate Verified Answers feeds, wire the contezza-for-commerce-agents adapter into Anthropic's commerce-agents blueprint, lint feeds with /feed-lint, and query Contezza's verified layer over MCP.",
+  "description": "Trusted merchant knowledge for AI agents: author and validate Verified Answers feeds, then query Contezza's cited, governed layer over MCP.",
   "author": {
     "name": "Contezza AI",
     "email": "hello@contezza.ai",

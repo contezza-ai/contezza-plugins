@@ -14,6 +14,10 @@ of crawled pages.
 
 ## Setup
 
+Guide the user to run these one-time setup steps themselves, in their own
+terminal (do not run them for the user — cloning and installing developer
+tooling is their call, on their machine):
+
 ```bash
 git clone https://github.com/anthropics/commerce-agents.git
 git clone https://github.com/contezza-ai/contezza-for-commerce-agents.git
