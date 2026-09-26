@@ -22,7 +22,7 @@ Claude Code connects it automatically when the plugin is enabled. To verify:
 ## Troubleshooting
 
 - **Server not listed** — the plugin may be installed but disabled: check
-  `/plugin` → manage plugins → enable `contezza-for-merchants`. Then restart
+  `/plugin` → manage plugins → enable `contezza-ai-for-merchants`. Then restart
   the session so the MCP config loads.
 - **Connection errors** — confirm the endpoint is up:
   `curl https://mcp.contezza.ai/health` should return `ok`. If your network

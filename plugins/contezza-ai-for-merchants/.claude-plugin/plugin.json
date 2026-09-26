@@ -1,7 +1,7 @@
 {
-  "name": "contezza-for-merchants",
+  "name": "contezza-ai-for-merchants",
   "displayName": "Contezza AI for Merchants",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "icon": "./icon.svg",
   "description": "Trusted merchant knowledge for AI agents: author and validate Verified Answers feeds, then query Contezza's cited, governed layer over MCP.",
   "author": {
