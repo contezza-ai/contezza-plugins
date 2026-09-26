@@ -15,6 +15,10 @@
   "privacy_policies": [
     "https://contezza.ai/privacy.html"
   ],
+  "documentationUrl": "https://contezza.ai/agents.html",
+  "supportUrl": "https://contezza.ai/#contact",
+  "privacyPolicyUrl": "https://contezza.ai/privacy.html",
+  "termsOfServiceUrl": "https://contezza.ai/terms.html",
   "terms_of_service": "https://contezza.ai/terms.html",
   "repository": "https://github.com/contezza-ai/contezza-plugins",
   "license": "Apache-2.0",
