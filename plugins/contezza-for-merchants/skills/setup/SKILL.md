@@ -24,9 +24,10 @@ Claude Code connects it automatically when the plugin is enabled. To verify:
 - **Server not listed** — the plugin may be installed but disabled: check
   `/plugin` → manage plugins → enable `contezza-for-merchants`. Then restart
   the session so the MCP config loads.
-- **Connection errors** — confirm the endpoint is up:
-  `curl https://mcp.contezza.ai/health` should return `ok`. If your network
-  proxies outbound HTTPS, allow `mcp.contezza.ai`.
+- **Connection errors** — confirm the endpoint is up: fetching
+  `https://mcp.contezza.ai/health` (browser, WebFetch, or any HTTP client)
+  should return `ok`. If your network proxies outbound HTTPS, allow
+  `mcp.contezza.ai`.
 - **Tools return "No matching verified entry"** — expected for questions far
   outside Contezza's published content; try the smoke question above.
 - **`list_verified_brands` returns an empty list** — expected today: brand
