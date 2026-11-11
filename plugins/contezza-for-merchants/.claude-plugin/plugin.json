@@ -1,25 +1,19 @@
 {
   "name": "contezza-for-merchants",
   "displayName": "Contezza AI for Merchants",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "icon": "./icon.svg",
-  "description": "Trusted merchant knowledge for AI agents: author and validate Verified Answers feeds, then query Contezza's cited, governed layer over MCP.",
+  "description": "Trusted merchant knowledge for AI agents: policy checks, brand knowledge graphs with citations, and audit-grounded category norms. Author and lint Verified Answers feeds. After adding, open the Connectors tab, select Add, then Connect; no sign-in.",
   "author": {
     "name": "Contezza AI",
     "email": "hello@contezza.ai",
     "url": "https://contezza.ai"
   },
   "homepage": "https://contezza.ai/agents.html",
-  "documentation": "https://contezza.ai/agents.html",
-  "support": "https://contezza.ai/#contact",
-  "privacy_policies": [
-    "https://contezza.ai/privacy.html"
-  ],
   "documentationUrl": "https://contezza.ai/agents.html",
   "supportUrl": "https://contezza.ai/#contact",
   "privacyPolicyUrl": "https://contezza.ai/privacy.html",
   "termsOfServiceUrl": "https://contezza.ai/terms.html",
-  "terms_of_service": "https://contezza.ai/terms.html",
   "repository": "https://github.com/contezza-ai/contezza-plugins",
   "license": "Apache-2.0",
   "keywords": [
