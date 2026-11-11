@@ -1,6 +1,6 @@
 {
   "name": "contezza",
-  "description": "Contezza AI - trusted merchant knowledge for AI agents. Plugins for making merchant content agent-ready: Verified Answers feed authoring, the commerce-agents adapter quickstart, and Contezza's verified MCP layer.",
+  "description": "Contezza AI - trusted knowledge for AI agents. Plugins for merchants (Verified Answers feed authoring, the commerce-agents adapter quickstart, Contezza's verified MCP layer) and for financial services (cited lending, regulatory and model-risk checks).",
   "owner": {
     "name": "Contezza AI",
     "email": "hello@contezza.ai",
@@ -24,6 +24,29 @@
         "commerce-agents",
         "mcp",
         "shopping-agents"
+      ]
+    },
+    {
+      "name": "contezza-for-financial-services",
+      "source": "./plugins/contezza-for-financial-services",
+      "description": "Cited lending, regulatory and model-risk checks for Claude: nine read-only tools over public US federal sources and the text or numbers you paste, every answer with citations and effective dates. After adding, open the Connectors tab, select Add, then Connect; no sign-in.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Contezza AI",
+        "email": "hello@contezza.ai"
+      },
+      "homepage": "https://contezza.ai/financial-services.html",
+      "license": "Apache-2.0",
+      "keywords": [
+        "financial-services",
+        "lending",
+        "mortgage",
+        "commercial-lending",
+        "regulatory",
+        "compliance",
+        "model-risk",
+        "hmda",
+        "mcp"
       ]
     }
   ]

@@ -1,0 +1,30 @@
+{
+  "name": "contezza-for-financial-services",
+  "displayName": "Contezza AI for Financial Services",
+  "version": "0.1.0",
+  "icon": "./icon.png",
+  "description": "Cited lending, regulatory and model-risk checks for Claude: nine read-only tools over public US federal sources and the text or numbers you paste, every answer with citations and effective dates. After adding, open the Connectors tab, select Add, then Connect; no sign-in.",
+  "author": {
+    "name": "Contezza AI",
+    "email": "hello@contezza.ai",
+    "url": "https://contezza.ai"
+  },
+  "homepage": "https://contezza.ai/financial-services.html",
+  "documentationUrl": "https://contezza.ai/financial-services.html",
+  "supportUrl": "https://contezza.ai/#contact",
+  "privacyPolicyUrl": "https://contezza.ai/privacy.html",
+  "termsOfServiceUrl": "https://contezza.ai/terms.html",
+  "repository": "https://github.com/contezza-ai/contezza-plugins",
+  "license": "Apache-2.0",
+  "keywords": [
+    "financial-services",
+    "lending",
+    "mortgage",
+    "commercial-lending",
+    "regulatory",
+    "compliance",
+    "model-risk",
+    "hmda",
+    "mcp"
+  ]
+}

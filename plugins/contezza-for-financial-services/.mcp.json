@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "contezza-financial-services": {
+      "type": "http",
+      "url": "https://mcp.contezza.ai/finserv/mcp"
+    }
+  }
+}
